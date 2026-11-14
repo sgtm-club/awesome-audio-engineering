@@ -15,3 +15,4 @@ A curated list of resources about Audio/Music/Sound Reverse-Engineering/Analysis
 ## Open-Source VSTs
 
 * [Destroy FX](http://destroyfx.org/) ([GitHub](https://github.com/sophiapoirier/destroyfx)): a collection of free Audio Units and VST plugins mostly written in c++.
+* [FM-1 Emulator](https://fm1-emulator.atst.tools/) : Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares.
